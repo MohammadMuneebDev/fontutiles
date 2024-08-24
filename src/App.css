@@ -1,0 +1,130 @@
+/* General App Styles */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Light Mode */
+.light-mode {
+  background-color: #fffcfc;
+  color: #000000;
+}
+
+/* Default Dark Mode */
+.dark-mode-default {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Blue Dark Mode */
+.dark-mode-blue {
+  background-color: #001f3f;
+  color: #ffffff;
+}
+
+/* Red Dark Mode */
+.dark-mode-red {
+  background-color: #b71c1c;
+  color: #ffffff;
+}
+
+/* Navbar Styles */
+.navbar-light-mode {
+  background-color: #ffffff; /* Light background for light mode */
+  color: #000000; /* Dark text for light mode */
+}
+
+.navbar-dark-mode-default {
+  background-color: #343a40; /* Default dark color */
+  color: #ffffff; /* Light text for dark mode */
+}
+
+.navbar-dark-mode-blue {
+  background-color: #003366; /* Blue dark color */
+  color: #ffffff; /* Light text for blue dark mode */
+}
+
+.navbar-dark-mode-red {
+  background-color: #660000; /* Red dark color */
+  color: #ffffff; /* Light text for red dark mode */
+}
+
+/* Form Switch */
+.form-check.form-switch .form-check-input {
+  background-color: #343a40;
+}
+
+.form-check.form-switch .form-check-label {
+  margin-left: 8px;
+}
+
+/* Adjust Button Styles for Light and Dark Modes */
+.btn {
+  color: #ffffff;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+/* Additional Styles */
+.container {
+  padding: 20px;
+}
+
+
