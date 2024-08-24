@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fontutiles/static/css/main.c591ef8a.css",
-    "main.js": "/fontutiles/static/js/main.77273201.js",
+    "main.js": "/fontutiles/static/js/main.fdc5375a.js",
     "static/js/453.64512fd7.chunk.js": "/fontutiles/static/js/453.64512fd7.chunk.js",
     "index.html": "/fontutiles/index.html",
     "main.c591ef8a.css.map": "/fontutiles/static/css/main.c591ef8a.css.map",
-    "main.77273201.js.map": "/fontutiles/static/js/main.77273201.js.map",
+    "main.fdc5375a.js.map": "/fontutiles/static/js/main.fdc5375a.js.map",
     "453.64512fd7.chunk.js.map": "/fontutiles/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c591ef8a.css",
-    "static/js/main.77273201.js"
+    "static/js/main.fdc5375a.js"
   ]
 }
