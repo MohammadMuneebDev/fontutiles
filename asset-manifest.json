@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MohammadMuneebDev/fontutiles.git/static/css/main.c591ef8a.css",
-    "main.js": "/MohammadMuneebDev/fontutiles.git/static/js/main.d88cc798.js",
-    "static/js/453.64512fd7.chunk.js": "/MohammadMuneebDev/fontutiles.git/static/js/453.64512fd7.chunk.js",
-    "index.html": "/MohammadMuneebDev/fontutiles.git/index.html",
-    "main.c591ef8a.css.map": "/MohammadMuneebDev/fontutiles.git/static/css/main.c591ef8a.css.map",
-    "main.d88cc798.js.map": "/MohammadMuneebDev/fontutiles.git/static/js/main.d88cc798.js.map",
-    "453.64512fd7.chunk.js.map": "/MohammadMuneebDev/fontutiles.git/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/fontutiles/static/css/main.c591ef8a.css",
+    "main.js": "/fontutiles/static/js/main.69ec70ed.js",
+    "static/js/453.64512fd7.chunk.js": "/fontutiles/static/js/453.64512fd7.chunk.js",
+    "index.html": "/fontutiles/index.html",
+    "main.c591ef8a.css.map": "/fontutiles/static/css/main.c591ef8a.css.map",
+    "main.69ec70ed.js.map": "/fontutiles/static/js/main.69ec70ed.js.map",
+    "453.64512fd7.chunk.js.map": "/fontutiles/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c591ef8a.css",
-    "static/js/main.d88cc798.js"
+    "static/js/main.69ec70ed.js"
   ]
 }
